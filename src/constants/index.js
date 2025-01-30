@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Developer IA",
     company_name: "AKATA GOAVANA",
-    icon: starbucks,
+    icon: tesla,
     iconBg: "#383E56",
     date: "Juin 2024 - Actuel",
     points: [
@@ -133,7 +133,7 @@ const experiences = [
     title: "Data WareHousing",
     company_name: "CHU ANDRAINJATO",
     icon: tesla,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     date: "April 2023 - August 2023",
     points: [
       "Collectes des données de plusieurs sources",
@@ -144,9 +144,22 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
+    company_name: "Zomatel Fianarantsoa",
+    icon: tesla,
+    iconBg: "#383E56",
+    date: "September 2022 - Febroary 2023",
+    points: [
+      "Maintenance and development of an online hotel management and reservation system, integrating a role-based access control (RBAC) system for secure and personalized user management.",
+      "Role-Based Access Control and Secure Access",
+      "Optimized User Experience, Scalable and Maintainable Architecture",
+      "Secure Online Payments, Performance Optimization for Fast Navigation"
+    ],
+  },
+  {
+    title: "Full stack Developer",
     company_name: "Commune Andina",
-    icon: meta,
-    iconBg: "#E6DEDD",
+    icon: tesla,
+    iconBg: "#383E56",
     date: "April 2021 - August 2021",
     points: [
       "Design and development of a civil status and management website, equipped with a filtering system based on user rights and roles to ensure secure and tailored access for each collaborator.",
@@ -158,7 +171,7 @@ const experiences = [
   {
     title: "STAGE",
     company_name: "DISTRICT FANDRIANA",
-    icon: shopify,
+    icon: tesla,
     iconBg: "#383E56",
     date: "febroary 2019 - may 2019",
     points: [
@@ -195,7 +208,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://qainspector.goavana.com/sign-in",
   },
   {
     name: "E-Civil Manager",
